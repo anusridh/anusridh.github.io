@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: An introduction to deep learning on biological sequence data - examples and solutions
-author: A. Mohebbi, T.B. Arad{\'o}ttir, A.R. Johansen, H. Bengtsson, M. Fraccaro, and M. M{\o}rup
+title: A deep learning approach to adherence detection for type 2 diabetics
+author: A. Mohebbi, T.B. Aradóttir, A.R. Johansen, H. Bengtsson, M. Fraccaro, and M. Mørup
 year: 2017
-key: 2017.3
+key: 2017.7
 journal: IEEE EMBC
 link: https://ieeexplore.ieee.org/abstract/document/8037462 
 image: /media/publications/Adherence/image.png
