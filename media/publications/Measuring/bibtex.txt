@@ -1,0 +1,6 @@
+@article{madsen2019measuring,
+  title={Measuring Arithmetic Extrapolation Performance},
+  author={Madsen, Andreas and Johansen, Alexander Rosenberg},
+  journal={arXiv preprint arXiv:1910.01888},
+  year={2019}
+}
