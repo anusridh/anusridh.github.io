@@ -9,5 +9,6 @@ link: https://arxiv.org/abs/1910.01888
 image: /media/publications/Measuring/image.png
 bibtex: /media/publications/Measuring/bibtex.txt
 pdf: https://arxiv.org/abs/1910.01888
+code: https://github.com/AndreasMadsen/stable-nalu
 type: paper
 ---
