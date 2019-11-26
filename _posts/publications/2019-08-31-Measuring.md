@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Prediction of GPI-Anchored proteins with pointer neural networks
-author: A. Madsen, A.R. Johansen
+author: M.H. Gislason, H. Nielsen, *J.J.A. Armenteros, *A.R. Johansen (equal contribution)
 year: 2019
 key: 2019.8
 journal: SEDL Workshop @ NeurIPS
