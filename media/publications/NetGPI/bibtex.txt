@@ -1,0 +1,8 @@
+@article{gislason2019prediction,
+  title={Prediction of GPI-Anchored proteins with pointer neural networks},
+  author={G{\'\i}slason, Magn{\'u}s Halld{\'o}r and Nielsen, Henrik and Armenteros, Jos{\'e} Juan Almagro and Johansen, Alexander Rosenberg},
+  journal={bioRxiv},
+  pages={838680},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
