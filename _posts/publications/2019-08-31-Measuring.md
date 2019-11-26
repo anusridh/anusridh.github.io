@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Measuring Arithmetic Extrapolation Performance
+title: Prediction of GPI-Anchored proteins with pointer neural networks
 author: A. Madsen, A.R. Johansen
 year: 2019
 key: 2019.8
