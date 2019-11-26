@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Prediction of GPI-Anchored proteins with pointer neural networks
-author: M.H. Gislason, H. Nielsen, *J.J.A. Armenteros, *A.R. Johansen (equal contribution)
+author: john
 year: 2019
 key: 2019.10
 journal: Submitted to PROTEINS: Structure, Function, and Bioinformatics
