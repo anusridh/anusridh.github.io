@@ -4,7 +4,7 @@ title: Autoencoding undirected molecular graphs with neural networks
 author: J.J.W. Olsen, P.E. Christensen, M.H. Hansen, A.R. Johansen
 year: 2019
 key: 2019.11
-journal: Submitted to Journal of Chemical Information and Modeling
+journal: Under review Journal of Chemical Information and Modeling
 link: /media/publications/Molecules/preprint.pdf
 image: /media/publications/Molecules/image.png
 bibtex: /media/publications/Molecules/bibtex.txt
