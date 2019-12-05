@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Epileptiform spike detection via convolutional neural networks
-author: A.R. Johansen,  J. Jin, T. Maszczyk, J. Dauwels, S.S. Cash,  M.B. Westover
+author: <u>A.R. Johansen</u>,  J. Jin, T. Maszczyk, J. Dauwels, S.S. Cash,  M.B. Westover
 year: 2016
 key: 2016.5
 journal: IEEE ICASSP
