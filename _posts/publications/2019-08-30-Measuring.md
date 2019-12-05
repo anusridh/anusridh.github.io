@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Measuring Arithmetic Extrapolation Performance
-author: A. Madsen, A.R. Johansen
+author: A. Madsen, <u>A.R. Johansen</u>
 year: 2019
 key: 2019.8
 journal: SEDL Workshop @ NeurIPS
